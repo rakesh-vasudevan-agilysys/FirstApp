@@ -32,8 +32,8 @@
 		0580791E2D853AC700721A79 = {
 			isa = PBXGroup;
 			children = (
-				058079292D853AC700721A79 /* FirrstApp */,
 				058079282D853AC700721A79 /* Products */,
+				058079292D853AC700721A79 /* FirrstApp */,
 			);
 			sourceTree = "<group>";
 		};
